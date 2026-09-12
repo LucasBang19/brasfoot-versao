@@ -7,5 +7,5 @@
 #     aqui DEPOIS de assinar e publicar o APK novo, senao o jogador ve "nova versao" e o link ainda e' o antigo.
 #   - link: MediaFire, GitHub Releases, site... qualquer endereco que abra no navegador.
 # O app compara o versionCode instalado com o desta linha: maior = mostra o dialogo com o botao Baixar.
-com.brasfoot.v2028|74|2.9|https://github.com/LucasBang19/brasfoot-versao/releases|Sala de Trofeus da Selecao, veteranos 33+, final unica da Copa do Brasil, Pontos Competicoes com tacas e Serie B/C/D, importar patch no Editor, Paulista com 4 divisoes de 16, relatorio de erro
+com.brasfoot.v2028|74|2.9|http://127.0.0.1:8099/SuperBrasfoot-2.9.apk|Sala de Trofeus da Selecao, veteranos 33+, final unica da Copa do Brasil, Pontos Competicoes com tacas e Serie B/C/D, importar patch no Editor, Paulista com 4 divisoes de 16, relatorio de erro
 com.brasfoot.pro|51|2.9 PRO|https://github.com/LucasBang19/brasfoot-versao/releases|Sala de Trofeus da Selecao, veteranos 33+, final unica da Copa do Brasil, Pontos Competicoes com tacas e Serie B/C/D, importar patch no Editor, Paulista com 4 divisoes de 16, relatorio de erro
