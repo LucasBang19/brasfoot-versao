@@ -1,0 +1,11 @@
+# Lista de versoes lida pelo botao "Verificar atualizacao" (menu do clube) do SuperBrasfoot 2.8 e PRO.
+# O app baixa uma COPIA PUBLICA deste arquivo (URL_VERSAO em tools/instala_verificar_atualizacao.py):
+#   https://raw.githubusercontent.com/LucasBang19/brasfoot-versao/main/versao.txt
+# Uma linha por edicao:  pacote|versionCode|nome da versao|link de download|novidades (uma frase)
+#   - pacote: com.brasfoot.v2028 = Brasfoot 2.8, com.brasfoot.pro = Brasfoot PRO
+#   - versionCode: o numero de apktool.yml do APK publicado (2.8 = 72 no APK atual, PRO = 49). So' suba o numero
+#     aqui DEPOIS de assinar e publicar o APK novo, senao o jogador ve "nova versao" e o link ainda e' o antigo.
+#   - link: MediaFire, GitHub Releases, site... qualquer endereco que abra no navegador.
+# O app compara o versionCode instalado com o desta linha: maior = mostra o dialogo com o botao Baixar.
+com.brasfoot.v2028|72|2.8|https://www.mediafire.com/|Sala de Trofeus, Serie C nova, Transfermarkt, veteranos, final unica da Copa do Brasil
+com.brasfoot.pro|49|2.8 PRO|https://www.mediafire.com/|Sala de Trofeus, Serie C nova, Transfermarkt, veteranos, final unica da Copa do Brasil
